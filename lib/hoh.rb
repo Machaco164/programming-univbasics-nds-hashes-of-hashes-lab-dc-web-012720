@@ -50,6 +50,7 @@ starting_node = {
         label: "Class"
             sub_category: {
                 label: "Order"}
+    ]
  }
 }
 end
