@@ -48,7 +48,6 @@ new_hash = {
     sub_category: {
        label: "Class"
     },
-    label: "Order"
  }
 }
 end
