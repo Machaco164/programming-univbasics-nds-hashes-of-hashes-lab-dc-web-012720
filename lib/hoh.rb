@@ -47,7 +47,8 @@ new_hash = {
      label: "Phylum",
     sub_category: {
        label: "Class"
-     }
+    },
+    label: "Order"
  }
 }
 end
